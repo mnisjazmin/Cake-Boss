@@ -26,5 +26,5 @@ los siguientes aspectos para la reserva y proceso de creación del pastel.
 
 -Al cliente se le da a ver nuestro cátalogo de sabores y diseños clasificados por presupuesto
 
--Si por algún motivo el cliente tiene su propio diseño este será evaluado para evaluar el monto a pagar.
- 
+-Si por algún motivo el cliente tiene su propio diseño este será evaluado para evaluar el monto a pagar
+
